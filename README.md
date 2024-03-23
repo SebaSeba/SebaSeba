@@ -1,5 +1,10 @@
 # About me
 
+I am software professional who enjoys developing great products. My background is in software engineering and solution architecting. Lately I've been expanding my horizons in the field of software engineering. In addition to traditional software development and AI engineering, I’ve for example set up state-of-the-art 3d camera hardware configurations, fixed and compiled C++ projects and setup and compiled projects with Unreal for Meta Quest 3 VR glasses.
+
+AI has been the main area of interest for the last couple of years. I have for example trained a deepfake AI model and studied machine learning and neural networks (as well as the recent GenAI technologies). I keep on experimenting with AI models and related technologies.
+
+See my [personal blog](https://www.sebastianhemmila.com/) and [Linkedin](https://www.linkedin.com/in/sebastianhemmila/) to learn more about what I've done.
 <!--
 **SebaSeba/SebaSeba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
