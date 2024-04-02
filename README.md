@@ -1,6 +1,6 @@
 # About me
 
-I am software professional who enjoys developing great products. My background is in software engineering and architecting software solutions to support sales efforts. Lately I've been expanding my horizons in the field of software engineering. In addition to traditional software development and AI engineering, I’ve for example set up state-of-the-art 3d camera hardware configurations, fixed and compiled C++ projects and setup and compiled projects with Unreal for Meta Quest 3 VR glasses.
+I am software professional who enjoys developing great products. My background is in software engineering and architecting software solutions to support sales efforts. Lately I've been expanding my horizons in the field of software engineering. In addition to traditional web development and AI engineering, I’ve for example set up state-of-the-art 3d camera hardware configurations, fixed and compiled C++ projects and setup and compiled projects with Unreal for Meta Quest 3 VR glasses.
 
 AI has been the main area of interest for the last couple of years. I have, for example, studied machine learning and neural networks, familiarized myself in-depth with GenAI technologies and their ecosystem, and trained AI models. I am currently continuing to study and experiment with AI technologies and models.
 
